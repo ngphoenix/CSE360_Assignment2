@@ -35,7 +35,7 @@ public class Analytics extends OrderedIntList {
 		{
 			// Even - average of two
 			int index = (listSize / 2);
-			median = (intList[index] + intList[index + 1]) / 2;
+			median = (intList[index - 1] + intList[index]) / 2;
 		} else {
 			// Odd - single value
 			int index = (listSize / 2);

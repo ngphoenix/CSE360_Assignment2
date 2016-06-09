@@ -8,7 +8,7 @@ package cse360assign2;
  */
 public class OrderedIntList
 {
-	private boolean debugging = true;
+	private boolean debugging = false;
 	protected int[] intList;
 	protected int listSize;
 
