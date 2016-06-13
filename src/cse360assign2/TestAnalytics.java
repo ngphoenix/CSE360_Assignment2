@@ -2,6 +2,11 @@ package cse360assign2;
 
 import java.util.Random;
 
+/**
+ * Tests the validity of the Analytics class output
+ * 
+ * @author Kevin Fox | PIN 23
+ */
 public class TestAnalytics {
 	public static void main(String[] args)
 	{

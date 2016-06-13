@@ -1,5 +1,10 @@
 package cse360assign2;
 
+/**
+ * Extension of the OrderedIntList that provides analytical methods.
+ * 
+ * @author Kevin Fox | PIN 23
+ */
 public class Analytics extends OrderedIntList {
 	/**
 	 * Calculates the mean of the integer list.
